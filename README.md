@@ -8,11 +8,12 @@ Eniac wants to evaluate Magist on the following two main concerns:
 As a Data Scientist, I have explored Magist Database to come up with answers and recommendations to Eniac’s concerns.
 
 2.  Languages and libraries used
-SQL: data analysis 
+   
+SQL: data analysis.
 Tableau: data visualization.
 Google slides: data presentation
 
-3.	Key learnings
+4.	Key learnings
 
 •	Data analysis: extraction of relevant insights and recommendations through data analysis
 •	Data Visualization: translation of insights into graphs.
